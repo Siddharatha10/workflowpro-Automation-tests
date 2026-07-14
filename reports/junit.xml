@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.137" timestamp="2026-07-14T16:50:48.737922+00:00" hostname="vm"><testcase classname="tests.integration.test_project_creation_flow.TestProjectCreationFlow" name="test_tenant_isolation" time="0.017" /></testsuite></testsuites>

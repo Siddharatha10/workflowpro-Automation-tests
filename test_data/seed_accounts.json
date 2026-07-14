@@ -1,0 +1,15 @@
+{
+  "company1": {
+    "email": "admin@company1.com",
+    "password": "password123",
+    "role": "Admin",
+    "otp_required": false
+  },
+  "company2": {
+    "email": "user@company2.com",
+    "password": "password123",
+    "role": "Employee",
+    "otp_required": true,
+    "otp_code": "123456"
+  }
+}
